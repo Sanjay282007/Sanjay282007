@@ -1,79 +1,114 @@
-# 👋 Hi, I'm Theretipally Sanjay  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Theretipally+Sanjay;CSE+AIML+Student;Software+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer" />
+</p>
 
-🎓 B.Tech CSE (AIML) Student at Vignan Institute of Technology and Science  
-💻 Software Engineer | Python | Java | Full Stack | SQL | AI/ML Enthusiast  
-📍 Hyderabad, India  
-🌐 Portfolio: https://sanjay282007.github.io/Sanjay-Portfolio/
+<h2 align="center">🎓 CSE (AIML) Student | Software Engineer | AI & ML Enthusiast</h2>
 
----
+<p align="center">
+📍 Hyderabad, India • 🏫 Vignan Institute of Technology and Science  
+</p>
 
-## 🧠 Tech Stack
-
-### 💻 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logos
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄 Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-### 🤖 AI & ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-5C2D91?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay282007&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay282007&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sanjay282007&theme=tokyonight)
+<p align="center">
+🌐 <a href="https://sanjay282007.github.io/Sanjay-Portfolio/">Portfolio</a> |
+🔗 <a href="https://linkedin.com/in/sanjay-theretipally">LinkedIn</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate AIML student building real-world software solutions using Python, Java, and modern web technologies.  
-I enjoy solving DSA problems, developing responsive applications, and exploring AI/ML workflows.
+I am a passionate Computer Science student specializing in **Artificial Intelligence and Machine Learning** with strong foundations in:
+
+• Software Development  
+• Data Structures & Algorithms  
+• Full Stack Web Development  
+• Machine Learning workflows  
+
+I enjoy building real-world applications and continuously improving my technical skills.
 
 ---
 
-## 🔗 Featured Portfolio
+## 🧠 Technical Skills
 
-🌐 Live Portfolio → https://sanjay282007.github.io/Sanjay-Portfolio/
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github" />
+</p>
 
-Check out:
+### 🔹 Core Areas
+- Python Programming  
+- Java & OOP  
+- SQL & Databases  
+- Full Stack Web Development  
+- AI & Machine Learning Fundamentals  
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay282007&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay282007&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Sanjay282007&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sanjay282007&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 💻 Projects
+
+### 🛒 Flipkart Clone – DevTown  
+✔ Built responsive front-end using HTML, CSS, JavaScript  
+✔ Implemented layout components & navigation flow  
+
+### 🤖 AI Project – Hack Your Path 6.0  
+✔ ML preprocessing  
+✔ Workflow automation logic  
+
+### 📊 Machine Learning Prototype – Hack Vibe 2025  
+✔ Data preparation  
+✔ Model pipeline structure  
+
+➡️ Full demos available on my portfolio
+
+---
+
+## 📜 Certifications
+
+- IBM SkillsBuild – Getting Started with AI  
+- NPTEL – Java Programming  
+- NPTEL – Data Structures & Algorithms using Python  
+- SWAYAM – Python Programming  
+- Udemy – Python for Beginners  
+
+---
+
+## 🌐 Portfolio
+
+👉 https://sanjay282007.github.io/Sanjay-Portfolio/
+
+Includes:
 • Live projects  
 • Skills showcase  
 • Resume  
-• Contact info  
+• Contact details  
 
 ---
 
-## 📌 Key Projects
+## 📈 Contributions
 
-🛒 Flipkart Clone — Responsive UI using HTML, CSS, JS  
-🤖 AI Solution — Hack Your Path 6.0  
-📊 ML Prototype — Hack Vibe 2025  
-
-(Full demos on portfolio)
+![snake animation](https://raw.githubusercontent.com/Sanjay282007/Sanjay282007/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/sanjay-theretipally  
-🌐 Portfolio: https://sanjay282007.github.io/Sanjay-Portfolio/  
-
----
-
-⭐ Always learning | Always building | Open to opportunities
+⭐ Passionate about software development and AI-driven solutions  
+📌 Open to internships & full-time opportunities
