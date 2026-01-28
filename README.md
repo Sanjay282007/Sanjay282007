@@ -46,12 +46,15 @@ I enjoy building real-world applications and continuously improving my technical
 ## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay282007&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay282007&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay282007&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Sanjay282007&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay282007&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay282007" />
 </p>
 
 ---
@@ -59,7 +62,7 @@ I enjoy building real-world applications and continuously improving my technical
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjay282007&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay282007&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -92,23 +95,23 @@ I enjoy building real-world applications and continuously improving my technical
 
 ---
 
+## 📈 Real GitHub Contributions
+
+![Sanjay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay282007)
+
+---
+
 ## 🌐 Portfolio
 
 👉 https://sanjay282007.github.io/Sanjay-Portfolio/
 
-Includes:
+Includes:  
 • Live projects  
-• Skills showcase  
 • Resume  
+• Skills showcase  
 • Contact details  
 
 ---
 
-## 📈 Contributions
-
-![snake animation](https://raw.githubusercontent.com/Sanjay282007/Sanjay282007/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ Passionate about software development and AI-driven solutions  
-📌 Open to internships & full-time opportunities
+⭐ Passionate about building scalable software and AI-driven solutions  
+📌 Open to internships & full-time roles
